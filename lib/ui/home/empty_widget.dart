@@ -31,7 +31,7 @@ class EmptyWidget extends StatelessWidget {
                   ),
                   Image.asset(
                     'assets/logo.png',
-                    height: 55,
+                    height: 80,
                   ),
                   const SizedBox(
                     height: 80,
@@ -48,7 +48,7 @@ class EmptyWidget extends StatelessWidget {
                     height: 20,
                   ),
                   Text(
-                    'Do you like add\na new city?',
+                    'Do you like add a new city?',
                     textAlign: TextAlign.start,
                   ),
                   const SizedBox(
