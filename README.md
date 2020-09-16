@@ -4,7 +4,8 @@
 <p align="center">
   <img src="docs/1.png" height="600em"/> 
   <img src="docs/2.png" height="600em"/> 
-  <img src="docs/3.png" height="600em"/> 
+  <img src="docs/3.png" height="600em"/>
+  <img src="docs/4.png" height="600em"/> 
 </p>
 
 <p align="center">
