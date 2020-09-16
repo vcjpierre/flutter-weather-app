@@ -1,6 +1,16 @@
-# Weather App
+<h1 align="center">Weather App 🌤</h1>
+<p align="center">A weather app built using flutter</p>
 
-A weather app built using flutter
+<p align="center">
+  <img src="docs/1.png" height="600em"/> 
+  <img src="docs/2.png" height="600em"/> 
+  <img src="docs/3.png" height="600em"/> 
+</p>
+
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" alt="Maintained:yes"></a>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+</p>
 
 ## Getting Started
 
